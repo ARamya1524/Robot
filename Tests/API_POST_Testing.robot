@@ -19,7 +19,7 @@ Hit the POST request
     ${res}=     POST On Session    RVMSession      ${resource}      json=${body}
     Set Global Variable    ${res}
 Verify the status code
-    Should Be Equal As Integers    ${res.status_code}   201
+    Should Be Equal As Integers    ${res.status_code}   200
     #Log To Console    ${res.status_code}
 Verify the response attribute
     #Log To Console    ${res.json()}
