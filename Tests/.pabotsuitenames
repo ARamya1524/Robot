@@ -1,0 +1,6 @@
+datasources:4ea3ff3a56aebdbdd1b28b7952c0f60fe34689d4
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:649352f246d8516302727cb9d2c1edc4fff423c2
+--test Login test.TC01 Login with valid credentials
+--test Login test.TC02 Login with invalid credentails

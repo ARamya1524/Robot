@@ -1,0 +1,5 @@
+loginbtn: xpath://button[@type='submit']
+unametxt: name:username
+ptxt: name:password
+invalidlbl: xpath://p[text()='Invalid credentials']
+dashboardlbl: xpath://h6[text()='Dashboard']

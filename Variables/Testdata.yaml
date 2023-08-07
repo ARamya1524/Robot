@@ -1,0 +1,12 @@
+browser: Chrome
+URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+Username: Admin
+Password: admin123
+invUsername: admin
+invPassword: 12345
+actualerror: Invalid
+dashboardtxt: Dashboard
+smallwait:  1s
+mediumwait: 3s
+largewait:  5s
+extralargewait: 10s
