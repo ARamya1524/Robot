@@ -3,3 +3,15 @@ unametxt: name:username
 ptxt: name:password
 invalidlbl: xpath://p[text()='Invalid credentials']
 dashboardlbl: xpath://h6[text()='Dashboard']
+adminlbl: xpath://span[text()='Admin']
+addlbl: xpath://button[text()=' Add ']
+employeedropdown: xpath://div[@class="oxd-autocomplete-wrapper"]
+employeetxt: xpath://div[@class="oxd-autocomplete-wrapper"]//input
+username1: xpath:(//input[@class="oxd-input oxd-input--active"])[2]
+userrole: xpath:(//div[@class="oxd-select-text--after"])[1]
+password1: (//input[@type="password"])[1]
+confirmpassword: (//input[@type="password"])[2]
+save: xpath://button[text()=' Save ']
+
+
+
