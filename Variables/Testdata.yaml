@@ -10,3 +10,11 @@ smallwait:  1s
 mediumwait: 3s
 largewait:  5s
 extralargewait: 10s
+userrole: Admin
+status: Enabled
+employeename: orange
+usern: Ramya
+down: ARROW_DOWN
+enter: ENTER
+pass: Aramya123
+
